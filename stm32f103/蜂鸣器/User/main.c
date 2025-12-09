@@ -15,9 +15,9 @@ int main(void){
 	while(1){
 		
 		GPIO_ResetBits(GPIOB, GPIO_Pin_12); // 设置为低电平
-		Delay_ms(500);
+		Delay_ms(1000);
 		GPIO_SetBits(GPIOB, GPIO_Pin_12); // 高电平
-		Delay_ms(500);
+		Delay_ms(1000);
 	}
 	
 }
