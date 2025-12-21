@@ -1,0 +1,58 @@
+Remove Pin=J3-2 From Net=C0
+Remove Pin=J5-1 From Net=C6
+Remove Pin=J5-2 From Net=C7
+Remove Pin=J5-3 From Net=C8
+Remove Pin=J5-4 From Net=C9
+Remove Pin=J8-1 From Net=LPWM1
+Remove Pin=J8-2 From Net=RPWM1
+Remove Pin=J8-3 From Net=LPWM2
+Remove Pin=J8-4 From Net=RPWM2
+Remove Pin=J9-2 From Net=TX
+Remove Pin=J9-3 From Net=RX
+Remove Pin=J10-2 From Net=CCDB0
+Remove Pin=J10-4 From Net=CCDB1
+Remove Pin=J10-5 From Net=ADB2
+Remove Pin=J10-6 From Net=CCDB3
+Remove Pin=J10-11 From Net=B16
+Remove Pin=J10-12 From Net=B17
+Remove Pin=J10-13 From Net=GHGL
+Remove Pin=J10-14 From Net=GHGR
+Remove Pin=J10-15 From Net=C0
+Remove Pin=J10-16 From Net=C1
+Remove Pin=J10-18 From Net=C2
+Remove Pin=J10-20 From Net=C3
+Remove Pin=J11-1 From Net=ADE22
+Remove Pin=J11-2 From Net=ADE23
+Remove Pin=J11-3 From Net=ADE20
+Remove Pin=J11-4 From Net=ADE21
+Remove Pin=J11-5 From Net=ADE30
+Remove Pin=J11-6 From Net=ADE29
+Remove Pin=J11-7 From Net=A1
+Remove Pin=J11-9 From Net=TX
+Remove Pin=J11-11 From Net=RX
+Remove Pin=J11-16 From Net=PWM5
+Remove Pin=J12-3 From Net=D7
+Remove Pin=J12-4 From Net=D6
+Remove Pin=J12-5 From Net=D5
+Remove Pin=J12-6 From Net=D4
+Remove Pin=J12-7 From Net=motor R-
+Remove Pin=J12-8 From Net=motor R+
+Remove Pin=J12-9 From Net=motor L-
+Remove Pin=J12-10 From Net=motor L+
+Remove Pin=J12-17 From Net=C9
+Remove Pin=J12-18 From Net=C8
+Remove Pin=J12-19 From Net=C7
+Remove Pin=J12-20 From Net=C6
+Remove Pin=J12-21 From Net=C5
+Remove Pin=J12-22 From Net=C4
+Remove Pin=J15-1 From Net=SERVODUTY
+Remove Pin=J15-2 From Net=V6
+Remove Pin=J15-3 From Net=GGND
+Remove Pin=J16-2 From Net=CCDB1
+Remove Pin=J16-3 From Net=CCDB2
+Remove Pin=R3-5 From Net=moto R+
+Remove Pin=R4-5 From Net=motor R-
+Remove Pin=R10-5 From Net=motor L+
+Remove Pin=R11-5 From Net=motor L-
+Remove Pin=R21-5 From Net=PWM5
+Remove Pin=R31-5 From Net=C3

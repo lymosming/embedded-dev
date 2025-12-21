@@ -1,0 +1,371 @@
+Added Component: Designator=C1(0805C)
+Added Component: Designator=C2(0805C)
+Added Component: Designator=C3(B型钽电容_3528_21)
+Added Component: Designator=C4(0805C)
+Added Component: Designator=C5(0805C)
+Added Component: Designator=C6(B型钽电容_3528_21)
+Added Component: Designator=C7(B型钽电容_3528_21)
+Added Component: Designator=C8(B型钽电容_3528_21)
+Added Component: Designator=C9(0805C)
+Added Component: Designator=C10(0805C)
+Added Component: Designator=C11(B型钽电容_3528_21)
+Added Component: Designator=C12(B型钽电容_3528_21)
+Added Component: Designator=C13(B型钽电容_3528_21)
+Added Component: Designator=C14(0805C)
+Added Component: Designator=C15(0805C)
+Added Component: Designator=C16(B型钽电容_3528_21)
+Added Component: Designator=C17(0805C)
+Added Component: Designator=D1(SOD-123)
+Added Component: Designator=D2(SOD-123)
+Added Component: Designator=D3(SOD-123)
+Added Component: Designator=D4()
+Added Component: Designator=D5()
+Added Component: Designator=D6()
+Added Component: Designator=D7()
+Added Component: Designator=D8()
+Added Component: Designator=D9(SOD-123)
+Added Component: Designator=H1(铜柱孔3)
+Added Component: Designator=H2(铜柱孔3)
+Added Component: Designator=H3(铜柱孔3)
+Added Component: Designator=H4(铜柱孔3)
+Added Component: Designator=J1(单面焊盘2*3MM_1PIN)
+Added Component: Designator=J2(单面焊盘2*3MM_1PIN)
+Added Component: Designator=J3(HDR1X3)
+Added Component: Designator=J4(HDR1X4)
+Added Component: Designator=J5(HDR2X3)
+Added Component: Designator=J6(HDR2X6)
+Added Component: Designator=J7(HDR2X6)
+Added Component: Designator=J8(HDR2X3)
+Added Component: Designator=J9(HDR1X4)
+Added Component: Designator=J10(HDR2X10)
+Added Component: Designator=J11(HDR2X11)
+Added Component: Designator=J12(HDR2X11)
+Added Component: Designator=J13(2PIN杜邦插座_1.27mm)
+Added Component: Designator=J14(HDR2X4)
+Added Component: Designator=J15(HDR1X3)
+Added Component: Designator=J16(HDR1X5)
+Added Component: Designator=J17(2PIN杜邦插座_1.27mm)
+Added Component: Designator=L1(CDRH3D16_4.2*1.8)
+Added Component: Designator=LM1(SOT-223)
+Added Component: Designator=LS1(蜂鸣器侧装)
+Added Component: Designator=Q1(TO-92A)
+Added Component: Designator=R1(0805_Res)
+Added Component: Designator=R2(0805_Res)
+Added Component: Designator=R3(0805_Res)
+Added Component: Designator=R4(0805_Res)
+Added Component: Designator=R5(0805_Res)
+Added Component: Designator=R6(0805_Res)
+Added Component: Designator=R7(0805_Res)
+Added Component: Designator=R8(0805_Res)
+Added Component: Designator=R9(0805_Res)
+Added Component: Designator=R10(0805_Res)
+Added Component: Designator=R11(0805_Res)
+Added Component: Designator=R12(0805_Res)
+Added Component: Designator=R13(0805_Res)
+Added Component: Designator=R14(0805_Res)
+Added Component: Designator=R15(0805_Res)
+Added Component: Designator=R16(0805_Res)
+Added Component: Designator=R17(0805_Res)
+Added Component: Designator=R18(0805_Res)
+Added Component: Designator=R19(0805_Res)
+Added Component: Designator=R20(0805_Res)
+Added Component: Designator=R21(0805_Res)
+Added Component: Designator=R22(0805_Res)
+Added Component: Designator=R23(0805_Res)
+Added Component: Designator=R24(0805_Res)
+Added Component: Designator=R25(0805_Res)
+Added Component: Designator=R26(0805_Res)
+Added Component: Designator=R27(0805_Res)
+Added Component: Designator=R28(0805_Res)
+Added Component: Designator=R29(0805_Res)
+Added Component: Designator=R30(0805_Res)
+Added Component: Designator=R31(0805_Res)
+Added Component: Designator=S1(开关)
+Added Component: Designator=S2(4路拨码开关)
+Added Component: Designator=S3(开关)
+Added Component: Designator=U2(SOP-8)
+Added Component: Designator=U3(SOP-8)
+Added Component: Designator=U4(TO_263_5(10.5*8.4mm))
+Added Component: Designator=U5(SOP-8)
+Added Component: Designator=U6(SOP-8)
+Add Pin To Net: Unknown Pin: Pin D1-6
+Add Pin To Net: Unknown Pin: Pin D2-6
+Add Pin To Net: Unknown Pin: Pin D3-6
+Add Pin To Net: Unknown Pin: Pin D4-9
+Add Pin To Net: Unknown Pin: Pin D4-10
+Add Pin To Net: Unknown Pin: Pin D5-9
+Add Pin To Net: Unknown Pin: Pin D5-10
+Add Pin To Net: Unknown Pin: Pin D6-9
+Add Pin To Net: Unknown Pin: Pin D6-10
+Add Pin To Net: Unknown Pin: Pin D7-9
+Add Pin To Net: Unknown Pin: Pin D7-10
+Add Pin To Net: Unknown Pin: Pin D8-9
+Add Pin To Net: Unknown Pin: Pin D8-10
+Add Pin To Net: Unknown Pin: Pin D9-6
+Add Pin To Net: Unknown Pin: Pin D9-7
+Added Pin To Net: NetName=GGND Pin=J1-1
+Added Pin To Net: NetName=VBAT+ Pin=J2-1
+Added Pin To Net: NetName=VCC3.3 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=GGND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=VCC5 Pin=J4-4
+Added Pin To Net: NetName=VCC3.3 Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=ADE30 Pin=J6-1
+Added Pin To Net: NetName=ADE30 Pin=J6-2
+Added Pin To Net: NetName=ADB2 Pin=J6-3
+Added Pin To Net: NetName=ADB2 Pin=J6-4
+Added Pin To Net: NetName=ADE23 Pin=J6-5
+Added Pin To Net: NetName=ADE23 Pin=J6-6
+Added Pin To Net: NetName=ADE22 Pin=J6-7
+Added Pin To Net: NetName=ADE22 Pin=J6-8
+Added Pin To Net: NetName=ADE21 Pin=J6-9
+Added Pin To Net: NetName=ADE21 Pin=J6-10
+Added Pin To Net: NetName=ADE20 Pin=J6-11
+Added Pin To Net: NetName=ADE20 Pin=J6-12
+Added Pin To Net: NetName=VCC5 Pin=J7-1
+Added Pin To Net: NetName=VCC5 Pin=J7-2
+Added Pin To Net: NetName=VCC5 Pin=J7-3
+Added Pin To Net: NetName=VCC5 Pin=J7-4
+Added Pin To Net: NetName=AGND Pin=J7-5
+Added Pin To Net: NetName=AGND Pin=J7-6
+Added Pin To Net: NetName=AGND Pin=J7-7
+Added Pin To Net: NetName=AGND Pin=J7-8
+Added Pin To Net: NetName=VCC-5 Pin=J7-9
+Added Pin To Net: NetName=VCC-5 Pin=J7-10
+Added Pin To Net: NetName=VCC-5 Pin=J7-11
+Added Pin To Net: NetName=VCC-5 Pin=J7-12
+Added Pin To Net: NetName=NetJ8_5 Pin=J8-5
+Added Pin To Net: NetName=NetJ8_5 Pin=J8-6
+Added Pin To Net: NetName=VCC3.3 Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-17
+Added Pin To Net: NetName=GND Pin=J10-19
+Added Pin To Net: NetName=GND Pin=J11-12
+Added Pin To Net: NetName=GND Pin=J11-21
+Added Pin To Net: NetName=GND Pin=J11-22
+Added Pin To Net: NetName=VCC3.3 Pin=J12-1
+Added Pin To Net: NetName=CHGR Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=C5 Pin=J14-1
+Added Pin To Net: NetName=B17 Pin=J14-2
+Added Pin To Net: NetName=C4 Pin=J14-3
+Added Pin To Net: NetName=B16 Pin=J14-4
+Added Pin To Net: NetName=GND Pin=J14-5
+Added Pin To Net: NetName=GND Pin=J14-6
+Added Pin To Net: NetName=VCC5 Pin=J14-7
+Added Pin To Net: NetName=VCC5 Pin=J14-8
+Added Pin To Net: NetName=VCC5 Pin=J16-4
+Added Pin To Net: NetName=GND Pin=J16-5
+Added Pin To Net: NetName=CHGL Pin=J17-1
+Added Pin To Net: NetName=GND Pin=J17-2
+Add Pin To Net: Unknown Pin: Pin L1-9
+Add Pin To Net: Unknown Pin: Pin L1-10
+Added Pin To Net: NetName=GGND Pin=LM1-2
+Added Pin To Net: NetName=V5 Pin=LM1-3
+Add Pin To Net: Unknown Pin: Pin LS1-5
+Added Pin To Net: NetName=NetD9_6 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Add Pin To Net: Unknown Pin: Pin R1-4
+Add Pin To Net: Unknown Pin: Pin R1-5
+Add Pin To Net: Unknown Pin: Pin R2-4
+Add Pin To Net: Unknown Pin: Pin R2-5
+Add Pin To Net: Unknown Pin: Pin R3-4
+Add Pin To Net: Unknown Pin: Pin R4-4
+Add Pin To Net: Unknown Pin: Pin R5-4
+Add Pin To Net: Unknown Pin: Pin R5-5
+Add Pin To Net: Unknown Pin: Pin R6-4
+Add Pin To Net: Unknown Pin: Pin R6-5
+Add Pin To Net: Unknown Pin: Pin R7-4
+Add Pin To Net: Unknown Pin: Pin R7-5
+Add Pin To Net: Unknown Pin: Pin R8-4
+Add Pin To Net: Unknown Pin: Pin R8-5
+Add Pin To Net: Unknown Pin: Pin R9-4
+Add Pin To Net: Unknown Pin: Pin R9-5
+Add Pin To Net: Unknown Pin: Pin R10-4
+Add Pin To Net: Unknown Pin: Pin R11-4
+Add Pin To Net: Unknown Pin: Pin R12-4
+Add Pin To Net: Unknown Pin: Pin R12-5
+Add Pin To Net: Unknown Pin: Pin R13-4
+Add Pin To Net: Unknown Pin: Pin R13-5
+Add Pin To Net: Unknown Pin: Pin R14-4
+Add Pin To Net: Unknown Pin: Pin R14-5
+Add Pin To Net: Unknown Pin: Pin R15-4
+Add Pin To Net: Unknown Pin: Pin R15-5
+Add Pin To Net: Unknown Pin: Pin R16-4
+Add Pin To Net: Unknown Pin: Pin R16-5
+Add Pin To Net: Unknown Pin: Pin R17-4
+Add Pin To Net: Unknown Pin: Pin R17-5
+Add Pin To Net: Unknown Pin: Pin R18-4
+Add Pin To Net: Unknown Pin: Pin R18-5
+Add Pin To Net: Unknown Pin: Pin R19-4
+Add Pin To Net: Unknown Pin: Pin R19-5
+Add Pin To Net: Unknown Pin: Pin R20-4
+Add Pin To Net: Unknown Pin: Pin R20-5
+Add Pin To Net: Unknown Pin: Pin R21-4
+Add Pin To Net: Unknown Pin: Pin R22-4
+Add Pin To Net: Unknown Pin: Pin R22-5
+Add Pin To Net: Unknown Pin: Pin R23-4
+Add Pin To Net: Unknown Pin: Pin R23-5
+Add Pin To Net: Unknown Pin: Pin R24-4
+Add Pin To Net: Unknown Pin: Pin R25-4
+Add Pin To Net: Unknown Pin: Pin R25-5
+Add Pin To Net: Unknown Pin: Pin R26-4
+Add Pin To Net: Unknown Pin: Pin R26-5
+Add Pin To Net: Unknown Pin: Pin R27-4
+Add Pin To Net: Unknown Pin: Pin R27-5
+Add Pin To Net: Unknown Pin: Pin R28-4
+Add Pin To Net: Unknown Pin: Pin R28-5
+Add Pin To Net: Unknown Pin: Pin R29-4
+Add Pin To Net: Unknown Pin: Pin R29-5
+Add Pin To Net: Unknown Pin: Pin R30-4
+Add Pin To Net: Unknown Pin: Pin R30-5
+Add Pin To Net: Unknown Pin: Pin R31-4
+Added Pin To Net: NetName=VBAT Pin=S1-1
+Added Pin To Net: NetName=VBAT+ Pin=S1-2
+Added Pin To Net: NetName=D7 Pin=S2-1
+Added Pin To Net: NetName=D6 Pin=S2-2
+Added Pin To Net: NetName=D5 Pin=S2-3
+Added Pin To Net: NetName=D4 Pin=S2-4
+Added Pin To Net: NetName=GND Pin=S2-5
+Added Pin To Net: NetName=GND Pin=S2-6
+Added Pin To Net: NetName=GND Pin=S2-7
+Added Pin To Net: NetName=GND Pin=S2-8
+Added Pin To Net: NetName=NetJ8_5 Pin=S3-1
+Added Pin To Net: NetName=GGND Pin=S3-2
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=VCC-5 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=VCC5 Pin=U2-8
+Added Pin To Net: NetName=VCC5 Pin=U3-1
+Added Pin To Net: NetName=NetR3_4 Pin=U3-2
+Added Pin To Net: NetName=NetR4_4 Pin=U3-3
+Added Pin To Net: NetName=VCC5 Pin=U3-4
+Added Pin To Net: NetName=GGND Pin=U3-5
+Added Pin To Net: NetName=RPWM2 Pin=U3-6
+Added Pin To Net: NetName=RPWM1 Pin=U3-7
+Added Pin To Net: NetName=V5 Pin=U3-8
+Added Pin To Net: NetName=GGND Pin=U4-3
+Added Pin To Net: NetName=GGND Pin=U4-3
+Added Pin To Net: NetName=V6 Pin=U4-4
+Added Pin To Net: NetName=NetR5_5 Pin=U4-5
+Added Pin To Net: NetName=VCC5 Pin=U5-1
+Added Pin To Net: NetName=NetR10_4 Pin=U5-2
+Added Pin To Net: NetName=NetR11_4 Pin=U5-3
+Added Pin To Net: NetName=VCC5 Pin=U5-4
+Added Pin To Net: NetName=GGND Pin=U5-5
+Added Pin To Net: NetName=RPWM2 Pin=U5-6
+Added Pin To Net: NetName=RPWM1 Pin=U5-7
+Added Pin To Net: NetName=V5 Pin=U5-8
+Added Pin To Net: NetName=VCC5 Pin=U6-1
+Added Pin To Net: NetName=NetR21_4 Pin=U6-2
+Added Pin To Net: NetName=NetR24_4 Pin=U6-3
+Added Pin To Net: NetName=VCC5 Pin=U6-4
+Added Pin To Net: NetName=GGND Pin=U6-5
+Added Pin To Net: NetName=NetR18_5 Pin=U6-6
+Added Pin To Net: NetName=SERVODUTY Pin=U6-7
+Added Pin To Net: NetName=VCC Pin=U6-8
+Added Net: Name=NetD1_7
+Added Pin To Net: NetName=NetD2_7 Pin=LM1-1
+Added Net: Name=NetD2_7
+Added Pin To Net: NetName=NetD3_7 Pin=U4-2
+Added Net: Name=NetD3_7
+Added Member To Class: ClassName=智能车主板 Member=Component C1 4.7uF
+Added Member To Class: ClassName=智能车主板 Member=Component C2 4.7uF
+Added Member To Class: ClassName=智能车主板 Member=Component C3 47uF
+Added Member To Class: ClassName=智能车主板 Member=Component C4 10uF
+Added Member To Class: ClassName=智能车主板 Member=Component C5 0.1uF
+Added Member To Class: ClassName=智能车主板 Member=Component C6 100uF
+Added Member To Class: ClassName=智能车主板 Member=Component C7 47uF
+Added Member To Class: ClassName=智能车主板 Member=Component C8 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C9 0.1uF
+Added Member To Class: ClassName=智能车主板 Member=Component C10 4.7uF
+Added Member To Class: ClassName=智能车主板 Member=Component C11 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C12 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C13 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C14 0.1uF
+Added Member To Class: ClassName=智能车主板 Member=Component C15 0.1uF
+Added Member To Class: ClassName=智能车主板 Member=Component C16 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C17 CAP104
+Added Member To Class: ClassName=智能车主板 Member=Component D1 1N5819
+Added Member To Class: ClassName=智能车主板 Member=Component D2 SS34
+Added Member To Class: ClassName=智能车主板 Member=Component D3 SS34
+Add Class Member: Failed to add class member : Component D4 LED
+Add Class Member: Failed to add class member : Component D5 LED
+Add Class Member: Failed to add class member : Component D6 LED
+Add Class Member: Failed to add class member : Component D7 LED
+Add Class Member: Failed to add class member : Component D8 LED
+Added Member To Class: ClassName=智能车主板 Member=Component D9 SS34
+Added Member To Class: ClassName=智能车主板 Member=Component H1 HOLE
+Added Member To Class: ClassName=智能车主板 Member=Component H2 HOLE
+Added Member To Class: ClassName=智能车主板 Member=Component H3 HOLE
+Added Member To Class: ClassName=智能车主板 Member=Component H4 HOLE
+Added Member To Class: ClassName=智能车主板 Member=Component J1 -
+Added Member To Class: ClassName=智能车主板 Member=Component J2 +
+Added Member To Class: ClassName=智能车主板 Member=Component J3 AD-KEY
+Added Member To Class: ClassName=智能车主板 Member=Component J4 CON4
+Added Member To Class: ClassName=智能车主板 Member=Component J5 OLED
+Added Member To Class: ClassName=智能车主板 Member=Component J6 CON12
+Added Member To Class: ClassName=智能车主板 Member=Component J7 CON12
+Added Member To Class: ClassName=智能车主板 Member=Component J8 motor drive
+Added Member To Class: ClassName=智能车主板 Member=Component J9 bluebooth
+Added Member To Class: ClassName=智能车主板 Member=Component J10 HEADER 10x2
+Added Member To Class: ClassName=智能车主板 Member=Component J11 HEADER 11x2
+Added Member To Class: ClassName=智能车主板 Member=Component J12 HEADER 11x2
+Added Member To Class: ClassName=智能车主板 Member=Component J13 CON2
+Added Member To Class: ClassName=智能车主板 Member=Component J14 RM
+Added Member To Class: ClassName=智能车主板 Member=Component J15 servo drive
+Added Member To Class: ClassName=智能车主板 Member=Component J16 CCD
+Added Member To Class: ClassName=智能车主板 Member=Component J17 CON2
+Added Member To Class: ClassName=智能车主板 Member=Component L1 电感
+Added Member To Class: ClassName=智能车主板 Member=Component LM1 Im2940
+Added Member To Class: ClassName=智能车主板 Member=Component LS1 Bell
+Added Member To Class: ClassName=智能车主板 Member=Component Q1 2N3904
+Added Member To Class: ClassName=智能车主板 Member=Component R1 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R2 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R3 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R4 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R5 3.9k
+Added Member To Class: ClassName=智能车主板 Member=Component R6 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R7 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R8 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R9 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R10 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R11 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R12 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R13 2.2k
+Added Member To Class: ClassName=智能车主板 Member=Component R14 3.3k
+Added Member To Class: ClassName=智能车主板 Member=Component R15 3.3k
+Added Member To Class: ClassName=智能车主板 Member=Component R16 3.3k
+Added Member To Class: ClassName=智能车主板 Member=Component R17 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R18 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R19 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R20 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R21 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R22 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R23 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R24 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R25 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R26 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R27 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R28 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R29 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R30 1k
+Added Member To Class: ClassName=智能车主板 Member=Component R31 1k
+Added Member To Class: ClassName=智能车主板 Member=Component S1 SW-SPST
+Added Member To Class: ClassName=智能车主板 Member=Component S2 SW DIP-4
+Added Member To Class: ClassName=智能车主板 Member=Component S3 SW-SPST
+Add Class Member: Failed to add class member : Component U1 TPS73633
+Added Member To Class: ClassName=智能车主板 Member=Component U2 LM2663
+Added Member To Class: ClassName=智能车主板 Member=Component U3 HCPL0631
+Added Member To Class: ClassName=智能车主板 Member=Component U4 MIC29302
+Added Member To Class: ClassName=智能车主板 Member=Component U5 HCPL0631
+Added Member To Class: ClassName=智能车主板 Member=Component U6 HCPL0631

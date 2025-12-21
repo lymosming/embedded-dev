@@ -1,0 +1,9 @@
+Added Component: Designator=U1(SOT23_5-LEADS)
+Added Pin To Net: NetName=V5 Pin=L1-1
+Added Pin To Net: NetName=NetJ4_1 Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin LS1-5
+Added Pin To Net: NetName=NetD1_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-3
+Added Pin To Net: NetName=VCC3.3 Pin=U1-5
+Added Member To Class: ClassName=ÖÇÄÜ³µÖ÷°å Member=Component U1 TPS73633
