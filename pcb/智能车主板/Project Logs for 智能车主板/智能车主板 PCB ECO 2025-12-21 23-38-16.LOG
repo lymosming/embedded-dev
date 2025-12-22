@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=motor L+ Pin=J12-10
+Added Pin To Net: NetName=motor L+ Pin=R10-1
+Added Net: Name=motor L+
+Added Pin To Net: NetName=motor L- Pin=J12-9
+Added Pin To Net: NetName=motor L- Pin=R11-1
+Added Net: Name=motor L-
+Added Pin To Net: NetName=motor R+ Pin=J12-8
+Added Pin To Net: NetName=motor R+ Pin=R3-1
+Added Net: Name=motor R+
+Added Pin To Net: NetName=motor R- Pin=J12-7
+Added Pin To Net: NetName=motor R- Pin=R4-1
+Added Net: Name=motor R-
+Added Pin To Net: NetName=PWM5 Pin=J11-16
+Added Pin To Net: NetName=PWM5 Pin=R21-1
+Added Net: Name=PWM5

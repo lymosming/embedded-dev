@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=C5 Pin=J12-21
+Added Pin To Net: NetName=C4 Pin=J12-22
+Added Pin To Net: NetName=C6 Pin=J5-1
+Added Pin To Net: NetName=C6 Pin=J12-20
+Added Net: Name=C6
+Added Pin To Net: NetName=C7 Pin=J5-2
+Added Pin To Net: NetName=C7 Pin=J12-19
+Added Net: Name=C7
+Added Pin To Net: NetName=C8 Pin=J5-3
+Added Pin To Net: NetName=C8 Pin=J12-18
+Added Net: Name=C8
+Added Pin To Net: NetName=C9 Pin=J5-4
+Added Pin To Net: NetName=C9 Pin=J12-17
+Added Net: Name=C9
+Added Pin To Net: NetName=CCDB1 Pin=J10-4
+Added Pin To Net: NetName=CCDB1 Pin=J16-2
+Added Net: Name=CCDB1
+Added Pin To Net: NetName=CCDB3 Pin=J10-6
+Added Pin To Net: NetName=CCDB3 Pin=J16-3
+Added Net: Name=CCDB3

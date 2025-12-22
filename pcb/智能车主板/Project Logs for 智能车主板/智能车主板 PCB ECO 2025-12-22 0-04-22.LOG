@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SERVODUTY Pin=J15-1
+Added Pin To Net: NetName=V6 Pin=J15-2
+Added Pin To Net: NetName=GGND Pin=J15-3

@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=ADE22 Pin=J11-1
+Added Pin To Net: NetName=ADE23 Pin=J11-2
+Added Pin To Net: NetName=ADE20 Pin=J11-3
+Added Pin To Net: NetName=ADE21 Pin=J11-4
+Added Pin To Net: NetName=ADE30 Pin=J11-5
+Added Pin To Net: NetName=RX Pin=J9-3
+Added Pin To Net: NetName=RX Pin=J11-11
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=J9-2
+Added Pin To Net: NetName=TX Pin=J11-9
+Added Net: Name=TX

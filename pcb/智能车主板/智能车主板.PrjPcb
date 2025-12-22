@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXODOMAH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 智能车主板\Design Rule Check - 智能车主板.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

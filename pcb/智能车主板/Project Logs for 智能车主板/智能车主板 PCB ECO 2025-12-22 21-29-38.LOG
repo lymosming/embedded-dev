@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=B16 Pin=J10-11
+Added Pin To Net: NetName=B17 Pin=J10-12
+Added Pin To Net: NetName=CHGL Pin=J10-13
+Added Pin To Net: NetName=CHGR Pin=J10-14
+Added Pin To Net: NetName=D7 Pin=J12-3
+Added Pin To Net: NetName=D6 Pin=J12-4
+Added Pin To Net: NetName=D5 Pin=J12-5
+Added Pin To Net: NetName=D4 Pin=J12-6
+Added Pin To Net: NetName=NetC12_1 Pin=U4-1
+Added Pin To Net: NetName=C0 Pin=J3-2
+Added Pin To Net: NetName=C0 Pin=J10-15
+Added Net: Name=C0
