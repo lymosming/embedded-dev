@@ -1,62 +1,19 @@
 Protel Design System Design Rule Check
 PCB File : E:\embedded-dev\pcb\智能车主板\智能车主板.PcbDoc
 Date     : 2025/12/28
-Time     : 12:51:01
-
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: VBAT_L01_P002
+Time     : 20:57:39
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D4-1(4870mil,4779.114mil) on Top And Track (4870mil,4784.114mil)(4870mil,4860mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D4-2(4870mil,4704.311mil) on Top And Track (4865mil,4576.417mil)(4865mil,4699.311mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D4-2(4870mil,4704.311mil) on Top And Track (4865mil,4699.311mil)(4870mil,4704.311mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D5-1(4745mil,4779.114mil) on Top And Track (4745mil,4784.114mil)(4745mil,4855mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D5-2(4745mil,4704.311mil) on Top And Track (4745mil,4576.417mil)(4745mil,4704.311mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D6-1(4625mil,4779.114mil) on Top And Track (4625mil,4779.114mil)(4625mil,4855mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D6-2(4625mil,4704.311mil) on Top And Track (4615mil,4576.417mil)(4615mil,4694.311mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D6-2(4625mil,4704.311mil) on Top And Track (4615mil,4694.311mil)(4625mil,4704.311mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D7-1(4500mil,4779.114mil) on Top And Track (4500mil,4779.114mil)(4543.992mil,4779.114mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D7-1(4500mil,4779.114mil) on Top And Track (4500mil,4784.114mil)(4500mil,4860mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D7-2(4500mil,4704.311mil) on Top And Track (4495mil,4576.417mil)(4495mil,4699.311mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D7-2(4500mil,4704.311mil) on Top And Track (4495mil,4699.311mil)(4500mil,4704.311mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D8-1(4380mil,4779.114mil) on Top And Track (4380mil,4779.114mil)(4380mil,4855mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D8-2(4380mil,4704.311mil) on Top And Track (4375mil,4576.417mil)(4375mil,4699.311mil) on Top 
-   Violation between Clearance Constraint: (Collision < 6mil) Between Pad D8-2(4380mil,4704.311mil) on Top And Track (4375mil,4699.311mil)(4380mil,4704.311mil) on Top 
-Rule Violations :15
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad D4-1(4870mil,4779.114mil) on Top And Track (4870mil,4784.114mil)(4870mil,4860mil) on Top Location : [X = 4870mil][Y = 4789.643mil]
-   Violation between Short-Circuit Constraint: Between Pad D4-2(4870mil,4704.311mil) on Top And Track (4865mil,4576.417mil)(4865mil,4699.311mil) on Top Location : [X = 4865mil][Y = 4691.529mil]
-   Violation between Short-Circuit Constraint: Between Pad D4-2(4870mil,4704.311mil) on Top And Track (4865mil,4699.311mil)(4870mil,4704.311mil) on Top Location : [X = 4867.5mil][Y = 4701.811mil]
-   Violation between Short-Circuit Constraint: Between Pad D5-1(4745mil,4779.114mil) on Top And Track (4745mil,4784.114mil)(4745mil,4855mil) on Top Location : [X = 4745mil][Y = 4789.643mil]
-   Violation between Short-Circuit Constraint: Between Pad D5-2(4745mil,4704.311mil) on Top And Track (4745mil,4576.417mil)(4745mil,4704.311mil) on Top Location : [X = 4745mil][Y = 4694.029mil]
-   Violation between Short-Circuit Constraint: Between Pad D6-1(4625mil,4779.114mil) on Top And Track (4625mil,4779.114mil)(4625mil,4855mil) on Top Location : [X = 4625mil][Y = 4787.143mil]
-   Violation between Short-Circuit Constraint: Between Pad D6-2(4625mil,4704.311mil) on Top And Track (4615mil,4576.417mil)(4615mil,4694.311mil) on Top Location : [X = 4615mil][Y = 4689.029mil]
-   Violation between Short-Circuit Constraint: Between Pad D6-2(4625mil,4704.311mil) on Top And Track (4615mil,4694.311mil)(4625mil,4704.311mil) on Top Location : [X = 4620mil][Y = 4699.311mil]
-   Violation between Short-Circuit Constraint: Between Pad D7-1(4500mil,4779.114mil) on Top And Track (4500mil,4779.114mil)(4543.992mil,4779.114mil) on Top Location : [X = 4508.029mil][Y = 4779.114mil]
-   Violation between Short-Circuit Constraint: Between Pad D7-1(4500mil,4779.114mil) on Top And Track (4500mil,4784.114mil)(4500mil,4860mil) on Top Location : [X = 4500mil][Y = 4789.643mil]
-   Violation between Short-Circuit Constraint: Between Pad D7-2(4500mil,4704.311mil) on Top And Track (4495mil,4576.417mil)(4495mil,4699.311mil) on Top Location : [X = 4495mil][Y = 4691.529mil]
-   Violation between Short-Circuit Constraint: Between Pad D7-2(4500mil,4704.311mil) on Top And Track (4495mil,4699.311mil)(4500mil,4704.311mil) on Top Location : [X = 4497.5mil][Y = 4701.811mil]
-   Violation between Short-Circuit Constraint: Between Pad D8-1(4380mil,4779.114mil) on Top And Track (4380mil,4779.114mil)(4380mil,4855mil) on Top Location : [X = 4380mil][Y = 4787.143mil]
-   Violation between Short-Circuit Constraint: Between Pad D8-2(4380mil,4704.311mil) on Top And Track (4375mil,4576.417mil)(4375mil,4699.311mil) on Top Location : [X = 4375mil][Y = 4691.529mil]
-   Violation between Short-Circuit Constraint: Between Pad D8-2(4380mil,4704.311mil) on Top And Track (4375mil,4699.311mil)(4380mil,4704.311mil) on Top Location : [X = 4377.5mil][Y = 4701.811mil]
-Rule Violations :15
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net NetD4_1 Between Track (4865mil,4699.311mil)(4870mil,4704.311mil) on Top And Pad D4-1(4870mil,4779.114mil) on Top 
-   Violation between Un-Routed Net Constraint: Net NetD5_1 Between Track (4745mil,4576.417mil)(4745mil,4704.311mil) on Top And Pad D5-1(4745mil,4779.114mil) on Top 
-   Violation between Un-Routed Net Constraint: Net NetD6_1 Between Track (4615mil,4694.311mil)(4625mil,4704.311mil) on Top And Pad D6-1(4625mil,4779.114mil) on Top 
-   Violation between Un-Routed Net Constraint: Net NetD7_1 Between Track (4495mil,4699.311mil)(4500mil,4704.311mil) on Top And Pad D7-1(4500mil,4779.114mil) on Top 
-   Violation between Un-Routed Net Constraint: Net GGND Between Pad D7-2(4500mil,4704.311mil) on Top And Track (4500mil,4779.114mil)(4543.992mil,4779.114mil) on Top 
-   Violation between Un-Routed Net Constraint: Net NetD8_1 Between Track (4375mil,4699.311mil)(4380mil,4704.311mil) on Top And Pad D8-1(4380mil,4779.114mil) on Top 
-   Violation between Un-Routed Net Constraint: Net GGND Between Pad D8-2(4380mil,4704.311mil) on Top And Track (4380mil,4779.114mil)(4380mil,4855mil) on Top 
-   Violation between Un-Routed Net Constraint: Split Plane  (No Net) on GND02 Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Split Plane  (No Net) on PWR03 Dead Copper - Net Not Assigned.
-Rule Violations :9
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-   Violation between Modified Polygon: Polygon Not Repour After Edit  (VBAT_L01_P002) on Top 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
@@ -65,6 +22,6 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Co
 Rule Violations :0
 
 
-Violations Detected : 40
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:00

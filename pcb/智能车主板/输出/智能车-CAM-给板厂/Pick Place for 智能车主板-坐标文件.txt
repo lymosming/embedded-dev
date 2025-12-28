@@ -1,0 +1,105 @@
+Altium Designer Pick and Place Locations
+E:\embedded-dev\pcb\智能车主板\Project Outputs for 智能车主板\Pick Place for 智能车主板.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/12/25
+Time:       19:46
+Revision:   6ef7dfa8da4ab813948826fdc7d1b98d4fcf85c5
+Variant:    No variations
+Units used: mil
+
+Designator Layer    Footprint            Center-X(mil) Center-Y(mil) Rotation Description                     
+H4         TopLayer 铜柱孔3                 1941.841      4750.162      0        ""                              
+H3         TopLayer 铜柱孔3                 1941.841      2548.863      0        ""                              
+H2         TopLayer 铜柱孔3                 5918.140      4750.162      0        ""                              
+H1         TopLayer 铜柱孔3                 5919.389      2547.988      0        ""                              
+U1         TopLayer SOT23_5-LEADS        3507.756      2617.598      0        IC                              
+D8         TopLayer 0805D                4380.000      4741.712      270      ""                              
+D7         TopLayer 0805D                4500.000      4741.712      270      ""                              
+D6         TopLayer 0805D                4625.000      4741.712      270      ""                              
+D5         TopLayer 0805D                4745.000      4741.712      270      ""                              
+D4         TopLayer 0805D                4870.000      4741.712      270      ""                              
+U6         TopLayer SOP-8                4660.677      3760.000      90       光耦                              
+U5         TopLayer SOP-8                4660.677      3480.000      90       光耦                              
+U4         TopLayer TO_263_5(10.5*8.4MM) 2196.815      4281.063      0        IC                              
+U3         TopLayer SOP-8                4660.677      4025.218      90       光耦                              
+U2         TopLayer SOP-8                3180.000      3075.000      0        IC                              
+S3         TopLayer 开关                   3305.000      4720.000      270      ""                              
+S2         TopLayer 4路拨码开关               5837.520      4290.000      0        ""                              
+S1         TopLayer 开关                   2115.000      3700.000      270      ""                              
+R31        TopLayer 0805_RES             5630.000      3213.583      270      电阻                              
+R30        TopLayer 0805_RES             5840.000      3545.000      270      电阻                              
+R29        TopLayer 0805_RES             4715.000      2785.000      90       电阻                              
+R28        TopLayer 0805_RES             4825.000      2785.000      90       电阻                              
+R27        TopLayer 0805_RES             4510.000      2785.000      90       电阻                              
+R26        TopLayer 0805_RES             4610.000      2785.000      90       电阻                              
+R25        TopLayer 0805_RES             5845.000      3820.000      90       电阻                              
+R24        TopLayer 0805_RES             4901.417      3815.000      0        电阻                              
+R23        TopLayer 0805_RES             5493.583      4140.000      180      电阻                              
+R22        TopLayer 0805_RES             5495.000      4235.000      180      电阻                              
+R21        TopLayer 0805_RES             4901.417      3710.000      0        电阻                              
+R20        TopLayer 0805_RES             5495.000      4340.000      180      电阻                              
+R19        TopLayer 0805_RES             4430.000      3705.000      180      电阻                              
+R18        TopLayer 0805_RES             4430.000      3790.000      180      电阻                              
+R17        TopLayer 0805_RES             5496.417      4445.000      180      电阻                              
+R16        TopLayer 0805_RES             4375.000      4540.000      270      电阻                              
+R15        TopLayer 0805_RES             4495.000      4540.000      270      电阻                              
+R14        TopLayer 0805_RES             4615.000      4540.000      270      电阻                              
+R13        TopLayer 0805_RES             4745.000      4540.000      270      电阻                              
+R12        TopLayer 0805_RES             4865.000      4540.000      270      电阻                              
+R11        TopLayer 0805_RES             4901.417      3530.000      0        电阻                              
+R10        TopLayer 0805_RES             4901.417      3425.000      180      电阻                              
+R9         TopLayer 0805_RES             4435.000      3445.000      180      电阻                              
+R8         TopLayer 0805_RES             4435.000      3535.000      180      电阻                              
+R7         TopLayer 0805_RES             2580.000      4565.000      0        电阻                              
+R6         TopLayer 0805_RES             2733.583      4335.000      0        电阻                              
+R5         TopLayer 0805_RES             2580.000      4675.000      0        电阻                              
+R4         TopLayer 0805_RES             4901.417      4080.000      180      电阻                              
+R3         TopLayer 0805_RES             4901.417      3980.000      180      电阻                              
+R2         TopLayer 0805_RES             4423.583      3965.000      180      电阻                              
+R1         TopLayer 0805_RES             4423.583      4055.000      180      电阻                              
+Q1         TopLayer TO-92A               5780.000      3230.000      180      "NPN General Purpose Amplifier" 
+LS1        TopLayer 蜂鸣器侧装                5970.000      3100.000      90       Bell                            
+LM1        TopLayer SOT-223              2581.890      3300.000      270      IC                              
+L1         TopLayer CDRH3D16_4.2*1.8     2455.000      2686.024      180      电感                              
+J17        TopLayer 2PIN杜邦插座_1.27MM      5980.000      3555.000      270      ""                              
+J16        TopLayer HDR1X5               4183.189      2485.000      0        ""                              
+J15        TopLayer HDR1X3               2790.000      4813.563      180      ""                              
+J14        TopLayer HDR2X4               4675.000      2535.000      0        ""                              
+J13        TopLayer 2PIN杜邦插座_1.27MM      5970.000      3810.000      90       ""                              
+J12        TopLayer HDR2X11              5256.811      3715.000      270      排针                              
+J11        TopLayer HDR2X11              4033.189      3715.000      270      排针                              
+J10        TopLayer HDR2X10              4645.000      3065.000      0        排针                              
+J9         TopLayer HDR1X4               5345.000      4813.563      0        ""                              
+J8         TopLayer HDR2X3               3840.000      4779.783      180      ""                              
+J7         TopLayer HDR2X6               3665.000      3270.000      90       ""                              
+J6         TopLayer HDR2X6               3670.000      3925.000      90       ""                              
+J5         TopLayer HDR2X3               5120.000      2535.000      0        ""                              
+J4         TopLayer HDR1X4               2570.000      2485.000      0        ""                              
+J3         TopLayer HDR1X3               4083.189      2685.000      180      ""                              
+J2         TopLayer 单面焊盘2*3MM_1PIN       2018.665      3310.000      90       ""                              
+J1         TopLayer 单面焊盘2*3MM_1PIN       2018.665      2905.000      90       ""                              
+D9         TopLayer SOD-123              5785.000      3005.000      270      二极管                             
+D3         TopLayer SOD-123              2480.000      3990.000      0        二极管                             
+D2         TopLayer SOD-123              2490.000      3625.000      0        二极管                             
+D1         TopLayer SOD-123              3185.000      2565.000      0        二极管                             
+C17        TopLayer 0805C                5630.000      3025.630      90       电容                              
+C16        TopLayer B型钽电容_3528_21        3179.055      2710.000      0        ""                              
+C15        TopLayer 0805C                2760.000      2715.000      270      电容                              
+C14        TopLayer 0805C                2441.142      2895.000      180      电容                              
+C13        TopLayer B型钽电容_3528_21        2473.622      3065.000      0        ""                              
+C12        TopLayer B型钽电容_3528_21        2580.000      4180.000      90       ""                              
+C11        TopLayer B型钽电容_3528_21        2580.000      4410.000      270      ""                              
+C10        TopLayer 0805C                2590.000      2715.630      90       电容                              
+C9         TopLayer 0805C                2795.000      3665.000      90       电容                              
+C8         TopLayer B型钽电容_3528_21        2665.000      3670.000      90       ""                              
+C7         TopLayer B型钽电容_3528_21        2499.055      3815.000      0        ""                              
+C6         TopLayer B型钽电容_3528_21        3180.000      3275.000      0        ""                              
+C5         TopLayer 0805C                3170.000      3410.000      0        电容                              
+C4         TopLayer 0805C                2990.000      3075.630      270      电容                              
+C3         TopLayer B型钽电容_3528_21        3180.000      2860.000      0        ""                              
+C2         TopLayer 0805C                3505.000      2745.000      0        电容                              
+C1         TopLayer 0805C                3355.000      2615.630      270      电容                              
+L2         TopLayer 0603L                3480.000      3305.000      180      ""                              

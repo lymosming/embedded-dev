@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [智能车主板.PrjPcb]
+   Generated File[Fabrication Testpoint Report for 智能车主板.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:48:28 On 2025/12/28

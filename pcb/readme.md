@@ -62,3 +62,11 @@
     5）工艺边放置固定孔（焊盘）
     6）多加一些地过孔（散热，稳定，回流）
     7）工艺边在GND和PWR层进行填充
+
+9. 输出材料：
+    1）装配图：File => 装配输出 =》 Assembly Drawing
+    2）Bom表：报告 =》 Bill of Materials
+    3）Gerber文件： File => 制造输出 => Gerber File
+    4）NC Drill File(钻孔文件)：File => 制造输出 => NC Drill File
+    5）pick and place file(坐标文件)：File => 装配输出 =》Generates pick and place file
+    6）IPC网表：File => 制造输出 => Test Point Report 勾选IPC
