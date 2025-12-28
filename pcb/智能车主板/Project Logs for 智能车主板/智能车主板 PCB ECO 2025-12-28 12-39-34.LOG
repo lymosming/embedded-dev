@@ -1,0 +1,32 @@
+Added Component: Designator=H1(铜柱孔3)
+Added Component: Designator=H2(铜柱孔3)
+Added Component: Designator=H3(铜柱孔3)
+Added Component: Designator=H4(铜柱孔3)
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Member To Class: ClassName=智能车主板 Member=Component H1 HOLE
+Added Member To Class: ClassName=智能车主板 Member=Component H2 HOLE
+Added Member To Class: ClassName=智能车主板 Member=Component H3 HOLE
+Added Member To Class: ClassName=智能车主板 Member=Component H4 HOLE
