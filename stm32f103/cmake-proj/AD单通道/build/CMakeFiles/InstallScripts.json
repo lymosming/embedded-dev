@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD\u5355\u901a\u9053/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

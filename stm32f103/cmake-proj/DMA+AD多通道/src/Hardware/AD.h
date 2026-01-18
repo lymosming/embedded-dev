@@ -1,0 +1,10 @@
+#ifndef __AD_H
+#define __AD_H
+#include <stdint.h>
+
+extern uint32_t AD_Value[4]; // 用于存储ADC转换结果的数组
+
+void AD_Init(void);
+void AD_GetValue(void);
+
+#endif /* __AD_H */

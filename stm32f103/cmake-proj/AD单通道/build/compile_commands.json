@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/misc.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/misc.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/misc.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/misc.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/src/Hardware/AD.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware/AD.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware/AD.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/src/Hardware/AD.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/src/Hardware/OLED.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware/OLED.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware/OLED.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/src/Hardware/OLED.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/src/System/Delay.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System/Delay.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System/Delay.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/src/System/Delay.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/src/main.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/main.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/main.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/src/main.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -std=gnu11 -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/src/stm32f10x_it.c.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/stm32f10x_it.c",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/stm32f10x_it.c",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/src/stm32f10x_it.c.obj"
+},
+{
+  "directory": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/Hardware -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/System -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/lib/cmsis -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver -I/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/hal/STM32F10x_StdPeriph_Driver/inc -mcpu=cortex-m3 -mthumb -ffunction-sections -fdata-sections -Wall -g -O0 -o CMakeFiles/myproject.elf.dir/src/startup_stm32f10x_md.s.obj -c /Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/startup_stm32f10x_md.s",
+  "file": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/src/startup_stm32f10x_md.s",
+  "output": "/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir/src/startup_stm32f10x_md.s.obj"
+}
+]

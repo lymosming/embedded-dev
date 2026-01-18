@@ -1,0 +1,4 @@
+/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/myproject.elf.dir
+/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/flash.dir
+/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/edit_cache.dir
+/Volumes/dev/www/embedded-dev/stm32f103/cmake-proj/AD单通道/build/CMakeFiles/rebuild_cache.dir

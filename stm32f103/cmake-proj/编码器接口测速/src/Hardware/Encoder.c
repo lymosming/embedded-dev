@@ -1,4 +1,5 @@
 #include "stm32f10x.h"
+#include <stdint.h>
 
 void Encoder_Init(void){
     // Encoder initialization code goes here
@@ -41,6 +42,15 @@ void Encoder_Init(void){
 /**
  * @brief 获取编码器计数值
  */
-uint8_t Encoder_GetCount(void){
-    return TIM_GetCounter(TIM3);
+// uint16_t Encoder_GetCount(void){ // 使用int16_t以支持负数计数
+//     return TIM_GetCounter(TIM3);
+// }
+
+/** 
+ * @brief 清零达到测速目的
+ */
+int16_t Encoder_GetCount(void){ // 使用int16_t以支持负数计数
+    int16_t temp = TIM_GetCounter(TIM3);
+    TIM_SetCounter(TIM3, 0); // 读取后清零
+    return temp;
 }
