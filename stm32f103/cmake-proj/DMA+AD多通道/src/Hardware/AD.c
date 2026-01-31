@@ -2,7 +2,7 @@
 #include "stm32f10x_dma.h"
 #include "stm32f10x_rcc.h"
 
-uint32_t AD_Value[4]; // 用于存储ADC转换结果的数组
+uint16_t AD_Value[4]; // 用于存储ADC转换结果的数组
 
 // ADC扫描模式+DMA单次数据转运
 /*
