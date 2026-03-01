@@ -38,3 +38,47 @@ void w25q64_WaitBusy(void){
     MySpi_Stop();
 }
 
+// 发送页编程
+void w25q64_PageProgram(uint32_t addr, uint8_t *data_arr, uint16_t count){
+    w25q64_WriteEnable();
+    MySpi_Start();
+    MySpi_SwapByte(W25Q64_PAGE_PROGRAM);
+    // 发送24位地址
+    MySpi_SwapByte(addr >> 16);
+    MySpi_SwapByte(addr >> 8);
+    MySpi_SwapByte(addr);
+    uint8_t i;
+    for(i = 0; i < 8; i++){
+        MySpi_SwapByte(data_arr[i]);
+    }
+    MySpi_Stop();
+    w25q64_WaitBusy(); // 等待
+}
+
+// 擦除扇区
+void w25q64_SectorErase(uint32_t addr){
+    w25q64_WriteEnable(); // 写使能
+
+    MySpi_Start();
+    MySpi_SwapByte(W25Q64_SECTOR_ERASE_4KB); // 发送指令
+    MySpi_SwapByte(addr >> 16);
+    MySpi_SwapByte(addr >> 8);
+    MySpi_SwapByte(addr);
+    MySpi_Stop();
+    w25q64_WaitBusy();
+}
+
+// 读取数据
+void w25q64_ReadData(uint32_t addr, uint8_t *data_arr, uint32_t count){
+    MySpi_Start();
+    MySpi_SwapByte(W25Q64_READ_DATA);
+    // 发送24位地址
+    MySpi_SwapByte(addr >> 16);
+    MySpi_SwapByte(addr >> 8);
+    MySpi_SwapByte(addr);
+    uint32_t i;
+    for(i = 0; i < count; i++){
+        data_arr[i] = MySpi_SwapByte(W25Q64_DUMMY_BYTE);
+    }
+    MySpi_Stop();
+}

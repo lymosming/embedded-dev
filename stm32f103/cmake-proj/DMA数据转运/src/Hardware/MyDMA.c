@@ -2,7 +2,7 @@
 #include "stm32f10x_dma.h"
 #include <stdint.h>
 
-uint8_t Temp_size; // 用于存储传输数据的大小
+uint8_t Temp_size; // 用于存储传输数据的大小 
 
 void MyDMA_Init(uint32_t AddrA, uint32_t AddrB, uint8_t size){
 

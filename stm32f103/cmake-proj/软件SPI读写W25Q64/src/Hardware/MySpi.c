@@ -1,5 +1,4 @@
 #include "stm32f10x.h"
-#include "stm32f10x_gpio.h"
 
 // 写SS引脚
 void MySpi_W_SS(uint8_t bit){
